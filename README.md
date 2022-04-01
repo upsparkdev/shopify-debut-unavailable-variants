@@ -28,3 +28,5 @@ Step 4:
 Add the style.css contents to the end of your theme.css file.
 
 Done! Refresh your store to see the results.
+
+IMPORTANT: I've commented the code thoroughly so you may wish to remove these lines prior to production. There is also a console.log on line 15 to help with debugging.
