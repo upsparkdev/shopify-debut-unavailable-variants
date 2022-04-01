@@ -11,7 +11,7 @@ This solution adds '(out of stock)' text to every out of stock option in the sec
 If the user changes the first drop down, the second dropdown will reset to the first available option in the second dropdown.
 
 Step 1:
-Copy the function.js contents to your theme.js file in your Shopify store backend.
+Copy the contents of hideUnavailableOptions.js to your theme.js file in your Shopify store backend.
 The code must be placed between these two methods:
 • _getVariantFromOptions
 • _onSelectChange
