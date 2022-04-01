@@ -1,11 +1,13 @@
 # shopify-debut-unavailable-variants
-Highlight and disable out-of-stock variants on product pages with the Debut theme (version 17.9.0).
+
+Highlight and disable out-of-stock variants on product pages with the Shopify Debut theme (version 17.9.0).
 
 This code builds on https://gist.github.com/jonolayton/7c7b2fc313fa973c04e02f08c7a3cd88 by Jono Layton.
 
 This solution worked for me and I hope it works for you too.
 
 This solution adds '(out of stock)' text to every out of stock option in the second dropdown. It also disables those options from being selected.
+
 If the user changes the first drop down, the second dropdown will reset to the first available option in the second dropdown.
 
 Step 1:
